@@ -1,5 +1,6 @@
 # BlueboyJavaGame
 
+Game em produçao
 projeto ainda em andamento
 
 ## Game controller
